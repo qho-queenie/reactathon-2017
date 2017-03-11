@@ -1,0 +1,23 @@
+{
+  "name": "reactathon-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisrollins/reactathon-2017"
+  },
+  "author": "Queenie Ho & Chris Rollins",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/chrisrollins/reactathon-2017#issues"
+  },
+  "homepage": "https://github.com/chrisrollins/reactathon-2017#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
